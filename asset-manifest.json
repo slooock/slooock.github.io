@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.c17ad1fe.js",
+    "main.js": "/static/js/main.ce174289.js",
     "static/media/img.jpeg": "/static/media/img.f2f2c3b44f0b2c619615.jpeg",
     "static/media/kaqueavelar.pdf": "/static/media/kaqueavelar.f4d289a2bd697bb84d75.pdf",
     "index.html": "/index.html",
-    "main.c17ad1fe.js.map": "/static/js/main.c17ad1fe.js.map"
+    "main.ce174289.js.map": "/static/js/main.ce174289.js.map"
   },
   "entrypoints": [
-    "static/js/main.c17ad1fe.js"
+    "static/js/main.ce174289.js"
   ]
 }
